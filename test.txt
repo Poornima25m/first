@@ -1,0 +1,12 @@
+Answer is : 3
+
+And Analyze end to end scenarios and on basis of this create test plan to ensure following -
+Time 
+Cost
+Resources
+Productivity
+
+
+Test Plan for SauceDemo website:
+1. Objective
+To ensure the functionality, performance, security, and usability of the SauceDemo website, covering all critical business flows.
